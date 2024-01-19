@@ -12,12 +12,16 @@ vue --version
 # Create Uve Projects 
 
 vue create <project name>
+# Install Node Modules 
+npm i install
 
 # Run The Projects
 
-Npm run serve
+npm run serve
+npm run dev 
 
 # install next uve
+
 npm install vuex@next --save
 
 
