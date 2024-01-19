@@ -1,5 +1,24 @@
-# vue-3-pinia-registration-login-example
+# vue-3 User curd App
 
-Vue 3 + Pinia - User Registration and Login Example & Tutorial
+Vue 3 + Pinia - User Registration and Login and add Counries 
+# install CLI
 
-Documentation at https://jasonwatmore.com/post/2022/07/25/vue-3-pinia-user-registration-and-login-example-tutorial
+npm install -g @vue/cli 
+
+# check version
+
+vue --version
+
+# Create Uve Projects 
+
+vue create <project name>
+
+# Run The Projects
+
+Npm run serve
+
+# install next uve
+npm install vuex@next --save
+
+
+
