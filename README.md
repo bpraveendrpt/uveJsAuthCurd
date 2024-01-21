@@ -30,3 +30,5 @@ npm install vuex@next --save
 
 <img width="1311" alt="Screenshot 2024-01-18 at 11 05 11 PM" src="https://github.com/bpraveendrpt/uveJsAuthCurd/assets/53850436/311b2aed-3459-4b85-ae86-7f1350239b05">
 
+<img width="1418" alt="Screenshot 2024-01-21 at 3 22 18 PM" src="https://github.com/bpraveendrpt/uveJsAuthCurd/assets/53850436/a7c8920e-ecf2-4fcc-ac8e-e3c3893cffc6">
+
